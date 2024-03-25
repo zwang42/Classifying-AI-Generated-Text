@@ -1,0 +1,1 @@
+This notebook uses 3 different transformer models to classify text as human written or AI generated. The models used are BERT, DistilBERT, and DeBERTa, which have pre-trained weights from Hugging Face and are fine-tuned on part of the DAIGT v4 dataset.
